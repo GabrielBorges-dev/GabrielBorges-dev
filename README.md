@@ -21,6 +21,6 @@
 
 ##
   
- <div>
-   ![Snake animation](https://github.com/GabrielBorges-dev/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- </div>
+
+   ![Snake animation](https://github.com/GabrielBorges-dev/GabrielBorges-dev/blob/output/github-contribution-grid-snake.svg)
+
