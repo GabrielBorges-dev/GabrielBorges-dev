@@ -1,7 +1,7 @@
 ### Olá Eu sou Gabriel Borges 👋
 
 - 🔭 Atualmente estou trabalhando como analista de dados para Customer Success
-- 🎯 Meu objetivo é ser um desenvolvedor front-end estou estudando muito pra isso rs.
+- 🎯 Meu objetivo é ser um desenvolvedor front-end estou estudando muito para isso rs.
 - 📚 Estou me especializando em React 
 - ✉ contato: gsb.gabriel5@gmail.com
 
