@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando como analista de dados para Customer Success
 - 🎯 Meu objetivo é ser um desenvolvedor front-end estou estudando muito para isso rs.
 - 📚 Estou me especializando em React 
-- ✉ contato: gsb.gabriel5@gmail.com
+- ✉ contato: (https://www.linkedin.com/in/gabriel-da-silva-borges-3280081b8/)
 
 <div align="center">
   <a href="https://github.com/GabrielBorges-dev">    
