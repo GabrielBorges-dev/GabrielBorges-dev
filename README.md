@@ -1,7 +1,5 @@
 
-- ✉ contato: (https://www.linkedin.com/in/gabriel-da-silva-borges-3280081b8/)
 
-- 
 
 <div align="center">
   <a href="https://github.com/GabrielBorges-dev">    
