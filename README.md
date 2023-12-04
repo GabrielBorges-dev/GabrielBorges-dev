@@ -1,9 +1,7 @@
-### Olá Eu sou Gabriel Borges 👋
 
-Como um Analista de Dados com dois anos de experiência, trago expertise sólida em Power BI, SQL Server e Teradata para a criação de relatórios estratégicos para a diretoria B2B e governança. Durante minha jornada profissional, fui responsável pela manutenção de relatórios existentes e pela criação de novos, garantindo que a análise de dados fosse uma fonte essencial de insights valiosos para a tomada de decisões da organização.
-
-Possuo sólidos conhecimentos em JavaScript, HTML, CSS e GIT, adquiridos ao longo de minha jornada de aprendizado. Atualmente, estou empenhado em meu desenvolvimento contínuo, dedicando-me ao estudo de React e Node.js para expandir minha expertise e me tornar um profissional ainda mais completo.
 - ✉ contato: (https://www.linkedin.com/in/gabriel-da-silva-borges-3280081b8/)
+
+- 
 
 <div align="center">
   <a href="https://github.com/GabrielBorges-dev">    
