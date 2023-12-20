@@ -1,5 +1,4 @@
-<script src="https://tryhackme.com/badge/2581269"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/GSBorg3s.png" alt="TryHackMe">
 
 
 <div align="center">
