@@ -1,3 +1,18 @@
+Sou Desenvolvedor de software. 
+Tenho conhecimento e experiência com desenvolvimento web, onde pude utilizar as tecnologias: Html, Css, Javascript, Angularjs, Node.js, TypeScript.
+
+Já atuei como Customer Success Analyst, desenvolvendo relatórios e análise de dados para governança B2B.
+
+Além disso, tenho experiência com: Sql Server, Powerbi, Python.
+
+Na cibersegurança, possuo conhecimento em: Gestão de Acessos, Regras de Firewall, Siem, Ti, Resposta a Incidentes, Sistemas, Ips, Controle de Acesso, Análise de Vulnerabilidades, Incidentes de Segurança, Segurança da Informação.
+
+
+
+
+
+
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/GSBorg3s.png" alt="TryHackMe">
 
 
