@@ -1,11 +1,9 @@
-Sou Desenvolvedor de software. 
-Tenho conhecimento e experiência com desenvolvimento web, onde pude utilizar as tecnologias: Html, Css, Javascript, Angularjs, Node.js, TypeScript.
+Sou Data Analyst. 
+Tenho conhecimento e experiência com desenvolvimento de Dashboards, Relatorios e KPIs, com as tecnologias: Python ,Power BI, SQL Server, Excel.
 
 Já atuei como Customer Success Analyst, desenvolvendo relatórios e análise de dados para governança B2B.
 
-Além disso, tenho experiência com: Sql Server, Powerbi, Python.
-
-Na cibersegurança, possuo conhecimento em: Gestão de Acessos, Regras de Firewall, Siem, Ti, Resposta a Incidentes, Sistemas, Ips, Controle de Acesso, Análise de Vulnerabilidades, Incidentes de Segurança, Segurança da Informação.
+Além disso, tenho experiência com: NodeJs, TypeScript, Angular.
 
 ##
 TryHackMe: https://tryhackme.com/p/GSBorg3s
