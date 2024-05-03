@@ -1,13 +1,12 @@
-Sou Data Analyst. 
-Tenho conhecimento e experiência com desenvolvimento de Dashboards, Relatorios e KPIs, com as tecnologias: Python ,Power BI, SQL Server, Excel.
-
-Já atuei como Customer Success Analyst, desenvolvendo relatórios e análise de dados para governança B2B.
-
-Além disso, tenho experiência com: NodeJs, TypeScript, Angular.
+Experiente e apaixonado por criar soluções eficientes e escaláveis, com um ano de experiência sólida
+ em desenvolvimento back-end. Proficiente no uso de tecnologias como C# .NET, GOlang,
+ ASP.NET, SQL Server, e PostgreSQL. Possui expertise em análise de dados, colaborando ativamente
+ em iniciativas para melhorar a experiência do cliente e aumentar a retenção. Busca oportunidades
+ desafiadoras para aplicar suas habilidades em desenvolvimento back-end e contribuir para o
+ crescimento de projetos inovadores.
 
 ##
-TryHackMe: https://tryhackme.com/p/GSBorg3s
-HackerOne: https://hackerone.com/gsb0rg3s.
+
 ##
 
 
